@@ -17,8 +17,18 @@ html, body {
 }
 #rectangle1 {
     background-color: blue;
+    left: 20px;
+    top: 20px;
 }
 
 #rectangle2 {
-    background-color: red;
+     background-color: red;
+     left: 120px;
+     top: 120px;
+ }
+
+#rectangle3 {
+    background-color: green;
+    left: 220px;
+    top: 20px;
 }
