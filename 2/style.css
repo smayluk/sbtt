@@ -1,0 +1,37 @@
+html, body {
+    width: 100%;
+    height: 100%;
+}
+#container {
+    position: relative;
+    width: 80%;
+    height: 80%;
+    margin: 0 auto;
+    background-color: #ccc;
+}
+.draggable {
+    position: absolute;
+}
+#rectangle1 {
+    background-color: blue;
+    left: 20px;
+    top: 20px;
+    width: 60px;
+    height: 60px;
+}
+
+#rectangle2 {
+    background-color: red;
+    left: 120px;
+    top: 120px;
+    width: 100px;
+    height: 100px;
+}
+
+#rectangle3 {
+    background-color: green;
+    left: 220px;
+    top: 20px;
+    width: 80px;
+    height: 80px;
+}
